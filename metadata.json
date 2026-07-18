@@ -1,0 +1,6 @@
+{
+  "name": "Customer Sentiment Dashboard",
+  "description": "A full-stack application that analyzes customer sentiment from raw reviews, generating interactive charts, word clouds, actionable insights, and providing an AI chat assistant to dive deeper into the data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
